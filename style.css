@@ -1,0 +1,116 @@
+body{
+    margin: 0px;
+    font-family: tahoma;
+}
+h1{
+    font-size: 35px;
+}
+.salmon-higlight{
+    color: tomato ;
+    font-size: 50px;
+    font-weight: 700px;
+}
+p{
+    text-align: justify;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.more{
+    padding-top: 15%;
+    margin-left: 10%;
+    
+}
+.button-link{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(50deg, salmon, tomato);
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-weight: 700;
+}
+.more-abut-me{
+    text-decoration: none;
+}
+.half-width img{
+    width: 100%;
+    margin-top: 40px;
+  
+}
+section{
+    height: 400px;
+    padding-bottom: 200px;
+}
+.top-bannar{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.one-third-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+.one-third-width img{
+    width: 100%;
+}
+#ltst-work{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+.bottom-background{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.client{
+   text-align: center;
+}
+#client-opinion{
+    
+    width: 30%;
+    text-align: justify;
+    margin: 0 auto;
+}
+.special-effect{
+    color: grey;
+    font-size: 14px;
+    margin-bottom: 35px;
+}
+.message-area{
+    color: white;
+    background-image: linear-gradient(35deg, lightSalmon, deeppink);
+    padding: 70px 120px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+    width: 30%;
+    margin: 0 auto;
+    font-size: 18px;
+}
+#email-effect{
+    font-size: 30px;
+}
+
+.footer-area{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    position: right;
+}
+.footer-area-2 p{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 50px;
+   
+}
