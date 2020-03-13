@@ -102,6 +102,13 @@ section{
 #email-effect{
     font-size: 30px;
 }
+.submit-button{
+    background-color: salmon;
+    border-color: salmon;
+}
+.submit-text{
+    color: white
+}
 
 .footer-area{
     background-image: url("images/footer-bg.png");
